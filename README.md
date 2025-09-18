@@ -9,7 +9,7 @@
 📍​  Paris / Hybride (idéalement) / Remote
 
 ## 🛠 Hard skills
-PHP | Symfony | Angular | CI/CD | Docker | Kubernetes | API REST | Git | RabbitMq | PostgreSQL | MySQL
+PHP | Symfony | Angular | CI/CD | Docker | Kubernetes | API REST | Git | RabbitMq | PostgreSQL | MySQL | ⌛️ React ⌛️
 
 ## 💻​ Environnement de dev
 MacOS | Windows / WSL | Docker | Cursor / VS Code | IA Claude Code
